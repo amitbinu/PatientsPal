@@ -1,3 +1,3 @@
 # PatientsPal
 
-App to help people search, sort, and map hospitals across the US based on many criteria and star ratings
+Java program that helps people to search, sort, and map hospitals across the US based on many criteria and star ratings
